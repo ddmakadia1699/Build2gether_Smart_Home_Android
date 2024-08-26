@@ -1,7 +1,7 @@
 {
   "project_info": {
     "project_number": "368961370619",
-    "firebase_url": "https://home-automation-eda63.firebaseio.com",
+    "firebase_url": "https://abcd.firebaseio.com",
     "project_id": "home-automation-eda63",
     "storage_bucket": "home-automation-eda63.appspot.com"
   },
@@ -15,28 +15,28 @@
       },
       "oauth_client": [
         {
-          "client_id": "368961370619-pbhrdt1hesm82mulidl5d39c3uhn3s1g.apps.googleusercontent.com",
+          "client_id": "abcd.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.homeautomation",
-            "certificate_hash": "75619df45f7314c017417094bcd8811c3ea10e32"
+            "certificate_hash": "abcd"
           }
         },
         {
-          "client_id": "368961370619-8cf9j0i57gdk1s239nk50kb5uo5eo7aj.apps.googleusercontent.com",
+          "client_id": "abcd.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC57uG6AcPBVoi-I7-TocnEXLPQ524K32Q"
+          "current_key": "abcd-I7-TocnEXLPQ524K32Q"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "368961370619-8cf9j0i57gdk1s239nk50kb5uo5eo7aj.apps.googleusercontent.com",
+              "client_id": "abcd.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
